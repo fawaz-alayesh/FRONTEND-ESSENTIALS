@@ -6,16 +6,37 @@
     <title>Flexbox container</title>
 
     <style>
-       
+       .container{
+        display:flex;
+        flex-direction: row;
+        background-color: rgb(245, 140, 98);
+        border: solid green;
+        font-family:Arial, Helvetica, sans-serif;
+        justify-content:space-around;
+        width: 100%;
+        
+       }
+
+      #links{
+          color:yellow;
+      }
+
+    .menu-item{
+        display: flex;
+        list-style-type:none;
+        padding: 5px;
+    }
+
+
     </style>
 </head>
 <body>
    <nav>
        <ul class="container">
-           <li class="menu-item"><a href="#">Home</a></li>
-           <li class="menu-item"><a href="#">Over mij</a></li>
-           <li class="menu-item"><a href="#">Vaardigheden</a></li>
-           <li class="menu-item"><a href="#">Hobby's</a></li>
+           <li class="menu-item"><a id="links" href="#" style="text-decoration: none;" >Home</a></li>
+           <li class="menu-item"><a id="links" href="#" style="text-decoration: none;">Over mij</a></li>
+           <li class="menu-item"><a id="links" href="#" style="text-decoration: none;">Vaardigheden</a></li>
+           <li class="menu-item"><a id="links" href="#" style="text-decoration: none;">Hobby's</a></li>
        </ul>
    </nav>
 </body>

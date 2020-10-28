@@ -1,0 +1,10 @@
+let mijnVoornaam = "Fawaz"
+let mijnAchternaam = 'Alayesh'
+let beroep = "Software Developer";
+let school = 'ROC van Amstelland';
+let naamstudent ="Fawaz"
+let leeftijdstudent ="23"
+let ikBenStemGerechtig ="false"
+let ikMagLegaalAlcoholKopen= "true"
+let ikMagBrommerRijden= "true"
+let SoftwareOntwikkeling= "true"

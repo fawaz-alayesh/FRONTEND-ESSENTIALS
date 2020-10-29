@@ -7,8 +7,8 @@ console.log(window.document);
 
 
 // document.querySelector("#poster1");
-var elem = document.querySelector('#poster2');
+var elem = document.querySelector('#poster3');
 
 // Set a background color
-elem.style.backgroundColor = 'yellow';
+elem.style.backgroundColor = 'white';
 

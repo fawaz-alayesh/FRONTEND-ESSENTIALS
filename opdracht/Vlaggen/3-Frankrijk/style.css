@@ -1,0 +1,24 @@
+#container{
+    width: auto;
+    height: auto;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+#linkerkant{
+    display:inline-block;
+    width:33%;
+    height: 500px;
+    background-color: blue;
+}
+#middenkant{
+    display: inline-block;
+    width: 33%;
+    height: 500px;
+    background-color: white;
+}
+#rechterkant{
+    display: inline-block;
+    width:33%;
+    height:500px;
+    background-color: red;
+}

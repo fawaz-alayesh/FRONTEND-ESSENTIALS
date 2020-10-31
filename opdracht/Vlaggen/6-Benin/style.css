@@ -1,0 +1,29 @@
+#container{
+    width: 800px;
+    height: 500px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+#links{
+    width: 250px;
+    height: 100%;
+    background-color: green;
+    display: inline-block;
+}
+#rechts{
+    width: 550px;
+    height: 100%;
+    float: right;
+ 
+}
+#rechtsboven{
+    width: 550px;
+    height:50%;
+    background-color: yellow;
+}
+#rechtsonder{
+    width: 550px;
+    height: 50%;
+    background-color: red;
+  
+}

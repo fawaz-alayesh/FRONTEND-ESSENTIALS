@@ -1,6 +1,6 @@
 #container{
-    width: auto;
-    height: auto;
+    width: 800px;
+    height: 500px;
     background-color: blanchedalmond;
     border: 1px solid black;
 }

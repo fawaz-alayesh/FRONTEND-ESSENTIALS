@@ -1,0 +1,23 @@
+#container{
+    width: 800px;
+    height: 500px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    
+}
+
+#vierkant{
+    width:800px;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#circle{
+    border-radius: 50%;
+    background-color: rgb(148, 18, 18);
+    width: 35%;
+    height: 50%;
+   
+}

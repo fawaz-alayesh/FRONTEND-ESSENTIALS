@@ -1,14 +1,11 @@
 
-.container{
+#container{
     display: flex;
-    
 }
-
-.col{
-    margin: 2px;
+body{
+    background-color: yellow;
 }
-
-.button{
+#Menu{
     width: 300px;
     height: 200px;
     background-color: red;
@@ -17,10 +14,4 @@
     justify-content: center;
     align-items: center;
     
-}
-
-.button span{
-    
-    font-size: 2em;
-    font-family: consolas;
 }

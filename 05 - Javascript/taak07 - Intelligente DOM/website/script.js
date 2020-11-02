@@ -10,5 +10,5 @@ console.log(window.document);
 var elem = document.querySelector('#poster3');
 
 // Set a background color
-elem.style.backgroundColor = 'white';
+elem.style.backgroundColor = 'red';
 

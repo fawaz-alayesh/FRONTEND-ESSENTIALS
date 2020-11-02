@@ -18,7 +18,6 @@
     width: 560px;
     height: 210px;
     background-color: red;
-    float: right;
     border-left: 20px solid white;
     border-bottom: 20px solid white;
     order: 2;
@@ -27,7 +26,6 @@
     width: 160px;
     height: 210px;
     background-color: red;
-    float: left;
     border-bottom: 20px solid white;
     border-right: 20px solid white;
     order: 0;
